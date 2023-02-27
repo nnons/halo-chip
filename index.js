@@ -1,3 +1,6 @@
+// convert the imports below to use require instead of import
+
+
 import * as u8a from 'uint8arrays'
 import { joinSignature } from '@ethersproject/bytes'
 import { hashMessage } from '@ethersproject/hash'
